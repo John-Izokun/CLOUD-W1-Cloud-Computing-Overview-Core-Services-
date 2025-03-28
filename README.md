@@ -5,7 +5,11 @@ Markdown
 **(Link to Main Portfolio Repo)**
 
 **Objective:**
-* [State the primary goal(s) of this week's task for this specific repo.]
+* o	Topics: IaaS/PaaS/SaaS definitions, AWS/GCP/Azure core compute/storage/networking service overview (EC2/Compute Engine, S3/GCS, VPC), Regions/AZs.
+o	Task: Create Cloud-Fundamentals repo. README explains cloud models, core services with a comparison table, and basic cloud architecture diagrams.
+o	Outcome: Documented understanding of cloud basics, ready to align with AI Project 1's context.
+![image](https://github.com/user-attachments/assets/be15042d-3677-4e93-9773-ccf60c8a4c97)
+
 
 **Key Concepts / Technologies:**
 * [List key terms, tools, libraries, algorithms: e.g., Python, FastAPI, Docker, CNNs, PyTorch, Terraform, AWS S3, CI/CD, Self-Attention]
